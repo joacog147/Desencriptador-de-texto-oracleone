@@ -1,0 +1,1 @@
+# Desencriptador-de-texto-oracleone
